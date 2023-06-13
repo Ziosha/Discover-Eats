@@ -112,3 +112,25 @@ jQuery(document).ready(function($) {
 
 
 });
+
+
+
+const cen = () => 
+{
+    window.location.href = "/cen.html"
+}
+
+const sur = () => 
+{
+    window.location.href = "/sur.html"
+}
+
+const sopo = () => 
+{
+    window.location.href = "/sopo.html"
+}
+
+const mira = () => 
+{
+    window.location.href = "/mira.html"
+}
